@@ -5,3 +5,5 @@ export class BreadcrumbOption extends BaseOptionComponent {
 }
 
 registry.category("website-options").add(BreadcrumbOption.id, BreadcrumbOption);
+
+
