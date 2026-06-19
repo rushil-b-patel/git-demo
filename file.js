@@ -5,3 +5,7 @@ function file () {
 function name (){
     console.log("git trial")
 }
+
+function abc (){
+    console.log("abs")
+}
