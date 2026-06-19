@@ -3,5 +3,5 @@ function file () {
 }
 
 function file () {
-    console.log("helooooooooooooooooo oddooeeeeersssssssssss");
+    console.log("helooooooooooooooooo oddooeeeeersssssssssssss");
 }
