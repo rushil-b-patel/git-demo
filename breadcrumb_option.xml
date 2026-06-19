@@ -14,7 +14,7 @@
                 combinationColor: 'breadcrumb',
                 nullValue: 'NULL',
             }"
-         />
+        />
     </BuilderRow>
     <BaseVisibilityOption
         label.translate="Breadcrumb Position"
