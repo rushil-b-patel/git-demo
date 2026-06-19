@@ -1,11 +1,9 @@
-function file () {
+function file() {
     console.log("This is a file.");
 }
 
-function name (){
-    console.log("git trial")
+function sum(a, b) {
+    return a + b;
 }
 
-function abc (){
-    console.log("abs")
-}
+print(sum(5, 10));
