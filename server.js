@@ -1,1 +1,1 @@
-console.log("Hello Universe 2");
+console.log("Hello mars");
